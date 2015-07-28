@@ -18,7 +18,7 @@ Instale no seu repositório local do Maven e importe com:
 
 ```xml
 <dependency>
-	<groupId>anotacoes</groupId>
+	<groupId>com.github.meetupjavasaopaulo</groupId>
 	<artifactId>anotacoes</artifactId>
 	<version>1.0</version>
 </dependency>
